@@ -1,0 +1,7 @@
+# DATABASE_URL="mongodb://localhost:27017"
+# insert your url its local computer 
+# in case of atlas copy and paste from there
+
+DATABASE_CLOUD="mongodb+srv://chaudhuree:practice@assignmentpractice.dosxlqk.mongodb.net/?retryWrites=true&w=majority
+"
+# up code is used for atlas
