@@ -52,6 +52,19 @@ npm run startDev
  just call them with appropriate value in the index.js file and press ctrl+s ,
 you will show the feedback result in the console and your database will be updated according to the function***
 
+## Create Database:
+**insert db name and collection name  (in string form)**
+```
+createDatabase()
+```
+>Example:
+
+```
+createDatabase(<db name>,<collection name>)
+
+createDatabase('multiple','data')
+```
+
 ## Show Data
 **insert db name and collection name  (in string form)**
 
